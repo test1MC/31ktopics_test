@@ -1,0 +1,19 @@
+#############################################
+# Placing a # in front of any of the items  #
+# listed below will allow these items to be #
+# push to your Git Repository. Doing so may #
+# cause performance issues                  #
+#############################################
+
+Output
+Analyzer
+FileSync
+Project/Users
+#.gitignore
+**/Thumbs.db
+
+#############################################
+# Add items to be ignored below             #
+#############################################
+
+**/*.docx
